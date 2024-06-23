@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonamkandari" alt="sonamkandari" /></a> </p>
 
-- 🌱 I’m currently learning **Advance java ,html, css,and networking**
+- 🌱 I’m currently learning **Advance java ,html, css, js and computer networking**
 
 - 📫 How to reach me **sonamkandari2004@gmail.com**
 
