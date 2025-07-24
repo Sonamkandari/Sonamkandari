@@ -1,24 +1,31 @@
-<!-- Header Banner -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Sonam Kandari</span></h1>
-<h3 align="center">✨ Frontend Developer | Salesforce Intern | Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">🚀 Frontend Developer | Salesforce Intern | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Node+%7C+Flutter;Salesforce+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Node+%7C+Flutter;Salesforce+Intern;Open+Source+Enthusiast;Tech+Learner+for+Life" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonamkandari&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://twitter.com/sonamkandari674" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sonamkandari674?logo=twitter&style=flat-square" alt="Twitter Follow" />
+  </a>
 </p>
 
 ---
 
-### 🌟 About Me
+### 👩‍💻 About Me
 
 - 🔭 Working on: **[Salesforce Virtual Internship](https://www.salesforce.com/trailblazer/qo0cuajr9gf5hhq5sb)**
-- 🌱 Learning: `Node.js`, `Flutter`, `Backend APIs`
-- 🧠 Focused on building **clean, accessible UIs**
-- 🎯 Goal: Become a full-stack Salesforce + MERN Developer
-- 📫 Reach me: **sonamkandari2004@gmail.com**
+- 🌱 Currently learning: `Node.js`, `Flutter`, `MERN stack`
+- 🧠 Passionate about building **accessible**, **scalable**, and **beautiful UIs**
+- 🧩 Exploring **Open Source**, **Web APIs**, and **Cloud Platforms**
+- 📫 Reach me at: **sonamkandari2004@gmail.com**
+- 💼 Portfolio: [sonamkandari.github.io/PORTFOLIO-PROJECT](https://sonamkandari.github.io/PORTFOLIO-PROJECT/)
 
 ---
 
-### 🔗 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sonamkandari" target="_blank">
@@ -40,31 +47,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,nodejs,express,mongodb,mysql,python,java,c,git,linux,postman" />
-</p>
-
----
-
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=shadow_red&hide_border=true&rank_icon=github&custom_title=Sonam's GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonamkandari&theme=shadow_red&hide_border=true" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=shadow_red&hide_border=true" width="47%" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonamkandari&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,mongodb,mysql,java,python,c,git,postman,linux" />
 </p>
 
 ---
@@ -72,5 +58,26 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonamkandari&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonamkandari&theme=gruvbox&row=2&column=4&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&custom_title=Sonam's GitHub Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonamkandari&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonamkandari&theme=react-dark&area=true&hide_border=true" />
 </p>
