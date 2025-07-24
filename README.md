@@ -51,12 +51,12 @@
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=shadow_red&hide_border=true&rank_icon=github&custom_title=Sonam's GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonamkandari&theme=shadow_red&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonamkandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=🌟 Sonam's GitHub Stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=sonamkandari&theme=tokyonight&hide_border=true&ring=FFB86C&fire=FF6E6E&currStreakLabel=F1FA8C" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=shadow_red&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title=📚 Most Used Languages" width="47%" />
 </p>
 
 ---
@@ -72,5 +72,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonamkandari&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonamkandari&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </p>
