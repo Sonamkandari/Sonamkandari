@@ -19,25 +19,27 @@
 ---
 
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonam-kandari-3078a1286/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/sonamkandari674" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
   <a href="https://instagram.com/sonamkandari04" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/sonamkandari" target="_blank" title="LeetCode">
-    <img src="https://img.shields.io/badge/-LeetCode-FCC800?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sonamkandj1ny" target="_blank" title="GeeksforGeeks">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
+
+
 
 
 ---
