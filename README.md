@@ -45,15 +45,15 @@
 ### 🛠️ Tech Stack
 
 
-| Category          | Technologies & Tools                                                                                                                                                                     |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**     | ![Java](https://img.shields.io/badge/Java-orange?logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![C](https://img.shields.io/badge/C-blue?logo=c) |
-| **Frontend**      | ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-264de4?logo=css3) ![React](https://img.shields.io/badge/React-20232a?logo=react)                                        |
-| **Backend & DB**  | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-grey?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql) |
-| **Cloud & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)                                    |
-| **Design/Media**  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva) ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?logo=adobe)                       |
+## 🛠️ My Tech Stack
 
- 
+| **Category**     | **Technologies & Tools**                                                                                              |
+|------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Languages**    | <img src="https://skillicons.dev/icons?i=java,javascript,python,c" height="30" />                                     |
+| **Frontend**     | <img src="https://skillicons.dev/icons?i=html,css,react,flutter" height="30" />                                       |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30" />                                 |
+| **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="30" />                                            |
+                       
 
 ---
 
