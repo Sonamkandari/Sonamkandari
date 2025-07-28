@@ -21,7 +21,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonamkandari" target="_blank">
+  <a href="www.linkedin.com/in/sonam-kandari-3078a1286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/sonamkandari674" target="_blank">
