@@ -31,7 +31,7 @@
   <a href="https://instagram.com/sonamkandari04" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/sonamkandari" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/u/Sonamkandarii/" target="_blank" title="LeetCode">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sonamkandj1ny" target="_blank" title="GeeksforGeeks">
