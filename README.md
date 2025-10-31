@@ -10,13 +10,17 @@
 
 ### 🌟 About Me
 
-🎓 B.Tech CSE (Cyber Security specialization) student with hands-on experience in building secure MERN-stack applications.
-🔐 Strong foundation in networking, security tools, and system protection, combined with full-stack development experience.
-✅ Completed Salesforce Virtual Internship — applied cloud and CRM concepts in real-world exercises.
-🚀 Learning: React.js, Data Structures & Algorithms, Data Analysis
-🎯 Goal: Full-Stack Developer (MERN) + Cybersecurity expertise
-🧠 Passion for building clean, accessible UI/UX
-📩 Email: sonamkandari2004@gmail.com
+## 👨‍💻 About Me
+
+I'm **Sonam Kandari**, a B.Tech CSE student specializing in **Cyber Security** with hands-on experience in building secure **MERN-stack applications**.
+
+- 🛡️ Interested in Cyber Security & Full-Stack Development  
+- 💻 Building secure full-stack applications using **Html, css,javaScript React & Node.js**
+- ✅ Completed **[Salesforce Virtual Internship](https://www.salesforce.com/trailblazer/qo0cuajr9gf5hhq5sb)**
+- 🌱 Currently learning: `React.js`, `DSA`, `Data Analysis`
+- 🧠 Focused on **clean, accessible UI/UX**
+- 🎯 Goal: Become a **Full-Stack MERN Developer** with good cybersecurity skills
+- 📫 Reach me at: **sonamkandari2004@gmail.com**
 
 ---
 
