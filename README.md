@@ -10,11 +10,13 @@
 
 ### 🌟 About Me
 
-- 🔭 Working on: **[Salesforce Virtual Internship](https://www.salesforce.com/trailblazer/qo0cuajr9gf5hhq5sb)**
-- 🌱 Learning: `Node.js`, `Flutter`, `Backend APIs`
-- 🧠 Focused on building **clean, accessible UIs**
-- 🎯 Goal: Become a full-stack Salesforce + MERN Developer
-- 📫 Reach me: **sonamkandari2004@gmail.com**
+🎓 B.Tech CSE (Cyber Security specialization) student with hands-on experience in building secure MERN-stack applications.
+🔐 Strong foundation in networking, security tools, and system protection, combined with full-stack development experience.
+✅ Completed Salesforce Virtual Internship — applied cloud and CRM concepts in real-world exercises.
+🚀 Learning: React.js, Data Structures & Algorithms, Data Analysis
+🎯 Goal: Full-Stack Developer (MERN) + Cybersecurity expertise
+🧠 Passion for building clean, accessible UI/UX
+📩 Email: sonamkandari2004@gmail.com
 
 ---
 
