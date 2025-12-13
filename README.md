@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Sonam Kandari</span></h1>
-<h3 align="center">✨ Frontend Developer | Salesforce Intern | Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">✨ Frontend Developer | SQL & java Developer | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Node;Salesforce+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
