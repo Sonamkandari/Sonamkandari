@@ -104,5 +104,6 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 ---
 
 ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=sonamkandari&theme=gruvbox&no-frame=true&margin-w=10&column=6" alt="GitHub trophies" />
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sonamkandari&theme=gruvbox&no-frame=true&margin-w=10&column=6)
+
 </p>
