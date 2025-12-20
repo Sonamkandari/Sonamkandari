@@ -12,17 +12,33 @@
 
 ## 👨‍💻 About Me
 
-I'm **Sonam Kandari**, a B.Tech CSE student specializing in **Cyber Security**, with hands-on experience building secure and efficient **MERN-stack applications**.
+## 👋 Hi, I'm Sonam Kandari
 
-- 🛡️ Passionate about **Cyber Security & Full-Stack Development**
-- 💻 Developing secure web applications using **HTML, CSS, JavaScript, React & Node.js**
-- ✅ Completed **[Salesforce Virtual Internship](https://www.salesforce.com/trailblazer/qo0cuajr9gf5hhq5sb)**
-- 🌱 Currently learning: `React.js`, `DSA`, `Data Analysis`
-- 🧠 Focused on building **clean, accessible & user-friendly interfaces**
-- 🎯 Goal: Become a **Full-Stack MERN Developer** with strong cybersecurity skills
-- 📫 Reach me: **sonamkandari2004@gmail.com**
+I'm a **B.Tech Computer Science student** with a solid understanding of the **fundamentals of Cyber Security**, combined with hands-on experience in building **secure, efficient, and scalable applications**. I focus on applying **security-aware practices** while developing **full-stack and data-driven projects**.
 
-> “Secure. Build. Innovate.” 🚀
+- 🛡️ Knowledge of **Cyber Security fundamentals** including secure coding practices, authentication basics, and data protection concepts  
+- 💻 Experience developing applications using **HTML, CSS, JavaScript, React.js, Node.js, Java, and SQL**  
+- 🔐 Apply **security-first thinking** in projects such as authentication flows, role-based access, and secure data handling  
+- 📊 Built **data-driven solutions** using **SQL Server, MySQL, and data modeling techniques**  
+- 🧠 Strong foundation in **DSA, problem-solving, and clean code practices**  
+- 🌱 Currently learning: **Advanced React.js, DSA, Data Analysis**  
+- 🎯 Career Goal: Become a **Full-Stack MERN Developer** with strong **cybersecurity fundamentals**  
+- 📫 Reach me at: **sonamkandari2004@gmail.com**
+
+---
+
+### 🧩 Projects Highlight (Security + Development Focus)
+
+- **Employee Task Management System**  
+  Implemented role-based access, authentication logic, and responsive UI using **React.js & Tailwind CSS**
+
+- **Sales Data Warehouse Project**  
+  Ensured data consistency, integrity, and optimized reporting using **SQL Server & star-schema modeling**
+
+- **Airline Management System**  
+  Built secure login and efficient data handling using **Java, JDBC & MySQL**
+
+> **“Secure. Build. Innovate.” 🚀**
 
 ---
 
