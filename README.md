@@ -85,12 +85,10 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 ### 📊 GitHub Stats & Contributions
 
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="47%" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="47%" />
-</p>
+
 
 
 ---
