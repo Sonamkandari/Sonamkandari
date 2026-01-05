@@ -20,7 +20,7 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 - 📊 Built **data-driven solutions** using **SQL Server, MySQL, and data modeling techniques**  
 - 🧠 Strong foundation in **DSA, problem-solving, and clean code practices**  
 - 🌱 Currently learning: **Advanced React.js, DSA, Data Analysis**  
-- 🎯 Career Goal: Become a **Full-Stack MERN Developer** with strong **cybersecurity fundamentals**  
+- 🎯 Career Goal: Aspiring Software Developer with expertise in Java, SQL, React.js, data analytics fundamentals, and foundational cybersecurity concepts
 - 📫 Reach me at: **sonamkandari2004@gmail.com**
 
 ---
