@@ -17,7 +17,7 @@
 I'm a **B.Tech Computer Science student** with a solid understanding of the **fundamentals of Cyber Security**, combined with hands-on experience in building **secure, efficient, and scalable applications**. I focus on applying **security-aware practices** while developing **full-stack and data-driven projects**.
 
 - 🛡️ Knowledge of **Cyber Security fundamentals** including secure coding practices, authentication basics, and data protection concepts  
-- 💻 Experience developing applications using **HTML, CSS, JavaScript, React.js, Node.js, Java, and SQL**  
+- 💻 Experience developing applications using **HTML, CSS, JavaScript, React.js, Java, and SQL**  
 - 🔐 Apply **security-first thinking** in projects such as authentication flows, role-based access, and secure data handling  
 - 📊 Built **data-driven solutions** using **SQL Server, MySQL, and data modeling techniques**  
 - 🧠 Strong foundation in **DSA, problem-solving, and clean code practices**  
