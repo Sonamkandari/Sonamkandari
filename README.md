@@ -78,7 +78,7 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 | **Data & BI**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
                    <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
                    <img src="https://img.icons8.com/fluency/48/database.png" height="30"/> |
-| **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="30" />                                            |                                         |
+| **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="30" />                                            |                                         
                        
 
 ---
