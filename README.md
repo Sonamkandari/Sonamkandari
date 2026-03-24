@@ -68,19 +68,51 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 
 ---
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-| **Category**     | **Technologies & Tools**                                                                                              |
-|------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Languages**    | <img src="https://skillicons.dev/icons?i=java,javascript,python,c" height="30" />                                     |
-| **Frontend**     | <img src="https://skillicons.dev/icons?i=html,css,react,flutter" height="30" />                                       |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30" />                                 |
-| **Data & BI**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
-                   <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
-                   <img src="https://img.icons8.com/fluency/48/database.png" height="30"/> |
-| **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="30" />                                            |                                         
-                       
+<table style="width:70%; border-collapse: collapse;">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
 
+  <tr>
+    <td>Languages</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,javascript,python,c" height="35"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,flutter" height="35"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Backend & DB</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="35"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Data & BI</td>
+    <td>
+      <img src="https://img.icons8.com/color/48/power-bi.png" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32"/>
+      <img src="https://img.icons8.com/fluency/48/database.png" height="32"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Tools</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,linux,postman" height="35"/>
+    </td>
+  </tr>
+</table>
 ---
 
 <!-- GitHub Stats Section -->
