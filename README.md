@@ -1,47 +1,60 @@
-<!-- Header Banner -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Sonam Kandari</span></h1>
-<h3 align="center">✨ Java • SQL • React.js | Data Warehousing & Web Projects| Tech Explorer from India 🇮🇳</h3>
-
-
+<h3 align="center">Java • SQL • Data Engineering • AI | Cyber Security Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+JAVA;SQL+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Java+Developer;SQL+%26+Data+Engineering;AI+%7C+Anomaly+Detection;React+Developer;Cyber+Security+Learner" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-## 👋 Hi, I'm Sonam Kandari
+🎓 Final-year B.Tech Computer Science student specializing in **Cyber Security & Privacy**.
 
-I'm a **B.Tech Computer Science student** with a solid understanding of the **fundamentals of Cyber Security**, combined with hands-on experience in building **secure, efficient, and scalable applications**. I focus on applying **security-aware practices** while developing **full-stack and data-driven projects**.
+- 🛡️ Strong foundation in **Cyber Security (authentication, RBAC, secure systems)**
+- 💻 Skilled in **Java, SQL, JavaScript, React.js**
+- 📊 Experience in **Data Warehousing, Data Modeling & SQL optimization**
+- 🤖 Built **AI-based solutions (Anomaly Detection & Chatbot Integration)**
+- 🧠 Strong in **DSA, DBMS & system design fundamentals**
+- 🎯 Goal: Become a **Software Engineer (Java + Data + AI + Security)**
 
-- 🛡️ Knowledge of **Cyber Security fundamentals** including secure coding practices, authentication basics, and data protection concepts  
-- 💻 Experience developing applications using **HTML, CSS, JavaScript, React.js, Java, and SQL**  
-- 🔐 Apply **security-first thinking** in projects such as authentication flows, role-based access, and secure data handling  
-- 📊 Built **data-driven solutions** using **SQL Server, MySQL, and data modeling techniques**  
-- 🧠 Strong foundation in **DSA, problem-solving, and clean code practices**  
-- 🌱 Currently learning: **Advanced React.js, DSA, Data Analysis**  
-- 🎯 Career Goal: Aspiring Software Developer with expertise in Java, SQL, React.js, data analytics fundamentals, and foundational cybersecurity concepts
-- 📫 Reach me at: **sonamkandari2004@gmail.com**
+📫 **Email:** sonamkandari2004@gmail.com
 
 ---
 
-### 🧩 Projects Highlight (Security + Development Focus)
+## 💼 Internship Experience
 
-- **Employee Task Management System**  
-  Implemented role-based access, authentication logic, and responsive UI using **React.js & Tailwind CSS**
-
-- **Sales Data Warehouse Project**  
-  Ensured data consistency, integrity, and optimized reporting using **SQL Server & star-schema modeling**
-
-- **Airline Management System**  
-  Built secure login and efficient data handling using **Java, JDBC & MySQL**
-
-> **“Secure. Build. Innovate.” 🚀**
+### 🌐 Web Developer Intern — Buddy4Study
+- Built real-world NGO web application for **social impact**
+- Developed reusable UI components using **React.js, JavaScript, HTML, CSS**
+- Integrated **AI-powered chatbot** for user assistance & FAQs
 
 ---
 
+## 🚀 Projects
+
+### 🔐 Security Log Analytics (Data Warehouse + AI)
+**Tech:** SQL Server, Python, React.js, Streamlit  
+- Built **Bronze–Silver–Gold layered data warehouse**
+- Developed **SQL stored procedures** for ETL & analytics
+- Applied **Isolation Forest** for anomaly detection in login patterns
+
+---
+
+### 📊 Sales Data Warehouse
+**Tech:** SQL Server, T-SQL  
+- Designed **star schema** integrating ERP + CRM data  
+- Performed **data cleaning & transformation for reporting**
+
+---
+
+### 👩‍💼 Employee Task Management System
+**Tech:** React.js, Tailwind CSS  
+- Implemented **RBAC (role-based access control)**  
+- Built authentication & dashboard system  
+
+---
 
 ## 🌐 Connect With Me
 
@@ -62,9 +75,6 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
-
-
-
 
 ---
 
@@ -113,17 +123,13 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
     </td>
   </tr>
 </table>
+
 ---
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Contributions
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="47%" />
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=sonamkandari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamkandari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="47%" />
 
 ---
 
@@ -136,6 +142,4 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sonamkandari&theme=gruvbox&no-frame=true&margin-w=10&column=6)
-
-</p>
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=sonamkandari&theme=gruvbox&no-frame=true&margin-w=10&column=6)
