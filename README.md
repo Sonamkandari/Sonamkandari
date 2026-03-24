@@ -70,15 +70,15 @@ I'm a **B.Tech Computer Science student** with a solid understanding of the **fu
 
 ### 🛠️ Tech Stack
 
-
-## 🛠️ My Tech Stack
-
 | **Category**     | **Technologies & Tools**                                                                                              |
 |------------------|------------------------------------------------------------------------------------------------------------------------|
 | **Languages**    | <img src="https://skillicons.dev/icons?i=java,javascript,python,c" height="30" />                                     |
 | **Frontend**     | <img src="https://skillicons.dev/icons?i=html,css,react,flutter" height="30" />                                       |
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30" />                                 |
-| **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="30" />                                            |
+| **Data & BI**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
+                   <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
+                   <img src="https://img.icons8.com/fluency/48/database.png" height="30"/> |
+| **Tools**        | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="30" />                                            |                                         |
                        
 
 ---
